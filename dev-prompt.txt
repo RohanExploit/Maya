@@ -1,0 +1,9 @@
+You are now handed the DeepShield AI repo. Your job: finish remaining TODOs, harden fallback logic, and add heatmap overlay for image results. 
+
+Use the following prioritized TODO list: 
+1) Improve mapping from classifier scores to human confidence. 
+2) Add serverless caching of model downloads. 
+3) Add an E2E test that runs via GitHub Actions hitting the deployed Vercel URL. 
+4) Implement small heatmap overlay using canvas showing suspicious region (use face bounding box as proxy). 
+
+Use only permissively licensed code and document everything in README.
